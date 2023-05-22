@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.demo.utilities.ExtentListenerClass"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/hp/IdeaProjects/Project_Demo1/src/test/java/com/demo/testcases/testLoginPage.java">
+        <classes>
+            <class name="com.demo.testcases.testLoginPage">
+                <methods>
+                    <include name="VerifyLoginBlankInput"/>
+                    <include name="VerifyLoginBlankUsername"/>
+                    <include name="VerifyLoginBlankPassword"/>
+                    <include name="VerifyLoginBothInputs"/>
+                </methods>
+            </class>
+            <class name="com.demo.testcases.testHomePage">
+                <methods>
+                    <include name="SortAmount"/></methods>
+            </class>
+        </classes>
+    </test>
+</suite>

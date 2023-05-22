@@ -1,0 +1,27 @@
+[INFO ] 2023-05-22 10:41:46.975 [main] Project_Demo - url is opened
+[INFO ] 2023-05-22 10:41:47.006 [main] Project_Demo - Username is kept blank
+[INFO ] 2023-05-22 10:41:47.006 [main] Project_Demo - Password is kept blank
+[INFO ] 2023-05-22 10:41:47.074 [main] Project_Demo - Clicked on login button
+[INFO ] 2023-05-22 10:41:47.140 [main] Project_Demo - Validation for blank username and password is displayed
+[INFO ] 2023-05-22 10:41:51.103 [main] Project_Demo - url is opened
+[INFO ] 2023-05-22 10:41:52.111 [main] Project_Demo - Username kept blank
+[INFO ] 2023-05-22 10:41:52.285 [main] Project_Demo - Password is entered
+[INFO ] 2023-05-22 10:41:52.373 [main] Project_Demo - Clicked on login button
+[INFO ] 2023-05-22 10:41:52.450 [main] Project_Demo - Validation for blank username is displayed
+[INFO ] 2023-05-22 10:41:56.490 [main] Project_Demo - url is opened
+[INFO ] 2023-05-22 10:41:56.819 [main] Project_Demo - Username is entered
+[INFO ] 2023-05-22 10:41:56.819 [main] Project_Demo - Password is kept blank
+[INFO ] 2023-05-22 10:41:56.893 [main] Project_Demo - Clicked on login button
+[INFO ] 2023-05-22 10:41:56.965 [main] Project_Demo - Validation for blank password is displayed
+[INFO ] 2023-05-22 10:42:00.493 [main] Project_Demo - url is opened
+[INFO ] 2023-05-22 10:42:00.885 [main] Project_Demo - Username is entered
+[INFO ] 2023-05-22 10:42:01.079 [main] Project_Demo - Password is entered
+[INFO ] 2023-05-22 10:42:02.258 [main] Project_Demo - Clicked on login button
+[INFO ] 2023-05-22 10:42:02.271 [main] Project_Demo - User is logged in successfully
+[INFO ] 2023-05-22 10:42:05.688 [main] Project_Demo - url is opened
+[INFO ] 2023-05-22 10:42:05.957 [main] Project_Demo - Username is entered
+[INFO ] 2023-05-22 10:42:06.096 [main] Project_Demo - Password is entered
+[INFO ] 2023-05-22 10:42:07.158 [main] Project_Demo - Clicked on login button
+[INFO ] 2023-05-22 10:42:07.170 [main] Project_Demo - User is logged in successfully
+[INFO ] 2023-05-22 10:42:07.692 [main] Project_Demo - Clicked on Amount
+[INFO ] 2023-05-22 10:42:07.846 [main] Project_Demo - Values are sorted
